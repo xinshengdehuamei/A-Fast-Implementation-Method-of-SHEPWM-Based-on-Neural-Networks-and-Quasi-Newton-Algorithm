@@ -4,12 +4,12 @@ SHE switching angles rapid generation algorithm is proposed based on neural netw
 
 ## simulation
 
-<img src="modulation_0.48.png" width= "25%">
+<img src="modulation_0.48.png" width= "75%">
 
 
-<img src="modulation_0.8.png" width= "25%">
+<img src="modulation_0.8.png" width= "75%">
 
 
-<img src="modulation_0.48_0.8.png" width= "25%">
+<img src="modulation_0.48_0.8.png" width= "75%">
 
 

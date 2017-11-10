@@ -8,13 +8,13 @@ Modulation is 0.48
 
 <div align="Modulation is 0.48">
 
-<img src="modulation_0.48.png" width= "75%">
+<img src="modulation_0.48.png" width= "50%">  <img src="fft_modulation_0.48.png" width= "50%">
 
 
 Modulation is 0.8
 
 <div align="Modulation is 0.8">
-<img src="modulation_0.8.png" width= "75%">
+<img src="modulation_0.8.png" width= "50%">   <img src="fft_modulation_0.8.png" width= "50%">
 
 
 Modulation is from 0.48 to 0.8 at 0.01s
